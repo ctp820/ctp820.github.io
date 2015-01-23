@@ -1,25 +1,21 @@
-body {width: 10000px; margin: 10 auto; font-family: helvetica neue, arial, sans-serif; color: white; background-color: black; 
-      background-image: url(../images/snow wallpaper.png);
+body {width: 1000px; margin: 0 auto; font-family: helvetica neue, arial, sans-serif; color: white; background-color: gray; 
+      background-image: url(../images/snowwallpaper.png);
       background-size: cover;
       background-position: center center;
       background-attachment: fixed;}
 
-h1 {font-family: Lobster}
+h1 {font-family: Normal 400}
 
-h2 {border-bottom: 1px solid gray;}
+a {color: green;}
 
-a {color: orange;}
+p, li {font-size: 14px; line-height: 22px;}
 
-a:hover {color: purple;}
-
-p, li {font-size: 1000px; line-height: 24px;}
-
-img {float: right;}
+img {float: left;}
 
 #title {float: left;}
+
+#about {clear: both; background-color: gray; padding: 20px; border: 1px solid black; margin-top: 20px;}
 
 #locations {float: left;}
 
 #header {float: right;}
-
-#about {clear: both; background-color: gray; padding: 20px; border: 1px solid black; margin-top: 20px;}
