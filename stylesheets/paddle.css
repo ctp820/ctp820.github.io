@@ -1,8 +1,5 @@
-body {width: 1000px; margin: 0 auto; font-family: helvetica neue, arial, sans-serif; color: white; background-color: gray; 
-      background-image: url(../images/snowwallpaper.png);
-      background-size: cover;
-      background-position: center center;
-      background-attachment: fixed;}
+body {font-family: helvetica neue, arial, sans-serif; color: black; background-color; 
+	background-size: cover; background-position: center; background-attachment: fixed;}
 
 h1 {font-family: Normal 400}
 
@@ -10,12 +7,4 @@ a {color: green;}
 
 p, li {font-size: 14px; line-height: 22px;}
 
-img {float: left;}
-
-#title {float: left;}
-
-#about {clear: both; background-color: gray; padding: 20px; border: 1px solid black; margin-top: 20px;}
-
-#locations {float: left;}
-
-#header {float: right;}
+img {float: center;}
